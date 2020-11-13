@@ -9,56 +9,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebc40bc9-3890-4116-942b-55158ee35671" name="Default Changelist" comment="a">
-      <change afterPath="$PROJECT_DIR$/.idea/Assignment1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Agent.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Agent.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Assignment1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Assignment1.cbp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/a.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/a.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment1.dir/CXX.includecache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment1.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment1.dir/Session.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment1.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment1.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment1.dir/depend.internal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment1.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment1.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment1.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment1.dir/main.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment1.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    <list default="true" id="ebc40bc9-3890-4116-942b-55158ee35671" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Graph.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Session.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +36,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../assignment1" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
@@ -101,8 +56,18 @@
       <updated>1605266324998</updated>
       <workItem from="1605266333407" duration="2246000" />
       <workItem from="1605270369731" duration="3425000" />
-      <workItem from="1605274160100" duration="1044000" />
+      <workItem from="1605274160100" duration="4548000" />
+      <workItem from="1605278867320" duration="474000" />
+      <workItem from="1605279569913" duration="19000" />
     </task>
+    <task id="LOCAL-00001" summary="a">
+      <created>1605275274068</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605275274071</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,14 +82,18 @@
       <screen x="67" y="27" width="1853" height="948" />
     </state>
     <state x="588" y="161" width="800" height="677" key="#New_File_Extensions/67.27.1853.948@67.27.1853.948" timestamp="1605269164033" />
-    <state x="532" y="48" width="912" height="904" key="CommitChangelistDialog2" timestamp="1605275212363">
+    <state x="451" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605278906533">
       <screen x="67" y="27" width="1853" height="948" />
     </state>
-    <state x="532" y="48" width="912" height="904" key="CommitChangelistDialog2/67.27.1853.948@67.27.1853.948" timestamp="1605275212363" />
-    <state x="776" y="258" width="424" height="484" key="FileChooserDialogImpl" timestamp="1605273731914">
+    <state x="451" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.948@67.27.1853.948" timestamp="1605278906533" />
+    <state x="532" y="48" width="912" height="904" key="CommitChangelistDialog2" timestamp="1605275272908">
       <screen x="67" y="27" width="1853" height="948" />
     </state>
-    <state x="776" y="258" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.948@67.27.1853.948" timestamp="1605273731914" />
+    <state x="532" y="48" width="912" height="904" key="CommitChangelistDialog2/67.27.1853.948@67.27.1853.948" timestamp="1605275272908" />
+    <state x="776" y="258" width="424" height="484" key="FileChooserDialogImpl" timestamp="1605279585712">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state x="776" y="258" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.948@67.27.1853.948" timestamp="1605279585712" />
     <state x="808" y="382" key="Github.ShareDialog" timestamp="1605274897815">
       <screen x="67" y="27" width="1853" height="948" />
     </state>
@@ -153,6 +122,10 @@
       <screen x="67" y="27" width="1853" height="948" />
     </state>
     <state x="482" y="135" key="SettingsEditor/67.27.1853.948@67.27.1853.948" timestamp="1605271852206" />
+    <state x="588" y="236" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1605275374246">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state x="588" y="236" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.948@67.27.1853.948" timestamp="1605275374246" />
     <state x="684" y="65" width="618" height="870" key="find.popup" timestamp="1605271656579">
       <screen x="67" y="27" width="1853" height="948" />
     </state>

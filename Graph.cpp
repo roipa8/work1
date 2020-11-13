@@ -21,7 +21,7 @@ void Graph::setHealthy(){
 }
 
 Tree * Graph::BFS(const Session &session, int nodeInd) {
-    Tree* currTree=Tree::createTree(session,nodeInd);
+    Tree* currTree=Tree::createTree(Session session, int nodeInd);
     Graph g1=session.getGraph();
     std::vector<bool> isVisited;
     for(int i=0; i<g1.edges.size(); i++){
