@@ -1,11 +1,13 @@
 #include "Session.h"
 
-Session::Session(const std::string &path): g(std::vector<<int>>), treeType(),agents(){
+using json = nlohmann::json;
+using namespace std;
+
+Session::Session(const std::string &path): g({}), treeType(),agents(){
     std::ifstream i(path);
     json j;
     i >> j;
     g=Graph(j["Graph"]);
-    treeType=TreeType;
 };
 
 

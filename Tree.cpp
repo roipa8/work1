@@ -19,7 +19,7 @@ Tree::Tree(const Tree& other):  node(other.node), children(){
 //}
 
 Tree * Tree::createTree(const Session &session, int rootLabel) {
-    Tree* tree=session
+
 }
 
 
@@ -50,8 +50,6 @@ Tree& Tree::operator=(const Tree &other) {
 
 
 
-
-
 CycleTree::CycleTree(int rootLabel, int currCycle): Tree(rootLabel), currCycle(currCycle){}
 
 //Copy Constructor CycleTree
@@ -68,7 +66,9 @@ CycleTree & CycleTree::operator=(const CycleTree &other) {
 
 CycleTree* CycleTree::clone() const{return new CycleTree(*this);}
 
+int CycleTree::traceTree() {
 
+}
 
 MaxRankTree::MaxRankTree(int rootLabel):Tree(rootLabel) {}
 

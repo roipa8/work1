@@ -21,6 +21,5 @@ int main(int argc, char **argv) {
     json j;
     i >> j;
     cout << j["graph"] << endl;
-
     return 0;
 }
