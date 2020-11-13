@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ebc40bc9-3890-4116-942b-55158ee35671" name="Default Changelist" comment="a">
+      <change afterPath="$PROJECT_DIR$/.idea/Assignment1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Agent.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Agent.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Assignment1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Assignment1.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment1.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment1.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment1.dir/Session.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment1.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment1.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment1.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment1.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment1.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment1.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment1.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment1.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kEWdcxbcT7GwUdSkis4QIUXvA3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebc40bc9-3890-4116-942b-55158ee35671" name="Default Changelist" comment="" />
+      <created>1605266324998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605266324998</updated>
+      <workItem from="1605266333407" duration="2246000" />
+      <workItem from="1605270369731" duration="3425000" />
+      <workItem from="1605274160100" duration="1044000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="588" y="161" width="800" height="677" key="#New_File_Extensions" timestamp="1605269164033">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state x="588" y="161" width="800" height="677" key="#New_File_Extensions/67.27.1853.948@67.27.1853.948" timestamp="1605269164033" />
+    <state x="532" y="48" width="912" height="904" key="CommitChangelistDialog2" timestamp="1605275212363">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state x="532" y="48" width="912" height="904" key="CommitChangelistDialog2/67.27.1853.948@67.27.1853.948" timestamp="1605275212363" />
+    <state x="776" y="258" width="424" height="484" key="FileChooserDialogImpl" timestamp="1605273731914">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state x="776" y="258" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.948@67.27.1853.948" timestamp="1605273731914" />
+    <state x="808" y="382" key="Github.ShareDialog" timestamp="1605274897815">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state x="808" y="382" key="Github.ShareDialog/67.27.1853.948@67.27.1853.948" timestamp="1605274897815" />
+    <state x="768" y="187" width="441" height="626" key="Github.UntrackedFilesDialog" timestamp="1605274913773">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state x="768" y="187" width="441" height="626" key="Github.UntrackedFilesDialog/67.27.1853.948@67.27.1853.948" timestamp="1605274913773" />
+    <state width="1807" height="243" key="GridCell.Tab.0.bottom" timestamp="1605273835689">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state width="1807" height="243" key="GridCell.Tab.0.bottom/67.27.1853.948@67.27.1853.948" timestamp="1605273835689" />
+    <state width="1807" height="243" key="GridCell.Tab.0.center" timestamp="1605273835679">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state width="1807" height="243" key="GridCell.Tab.0.center/67.27.1853.948@67.27.1853.948" timestamp="1605273835679" />
+    <state width="1807" height="243" key="GridCell.Tab.0.left" timestamp="1605273835678">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state width="1807" height="243" key="GridCell.Tab.0.left/67.27.1853.948@67.27.1853.948" timestamp="1605273835678" />
+    <state width="1807" height="243" key="GridCell.Tab.0.right" timestamp="1605273835687">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state width="1807" height="243" key="GridCell.Tab.0.right/67.27.1853.948@67.27.1853.948" timestamp="1605273835687" />
+    <state x="482" y="135" key="SettingsEditor" timestamp="1605271852206">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state x="482" y="135" key="SettingsEditor/67.27.1853.948@67.27.1853.948" timestamp="1605271852206" />
+    <state x="684" y="65" width="618" height="870" key="find.popup" timestamp="1605271656579">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state x="684" y="65" width="618" height="870" key="find.popup/67.27.1853.948@67.27.1853.948" timestamp="1605271656579" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1605266597190">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/67.27.1853.948@67.27.1853.948" timestamp="1605266597190" />
+    <state x="918" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1605266627618">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state x="918" y="223" width="672" height="678" key="search.everywhere.popup/67.27.1853.948@67.27.1853.948" timestamp="1605266627618" />
+    <state x="738" y="184" width="500" height="632" key="svn.repositoryBrowser" timestamp="1605273362465">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state x="738" y="184" width="500" height="632" key="svn.repositoryBrowser/67.27.1853.948@67.27.1853.948" timestamp="1605273362465" />
+  </component>
+</project>
