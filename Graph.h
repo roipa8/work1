@@ -24,7 +24,7 @@ public:
     void setHealthy();
     bool isFinish();
     bool isFinishAux(std::vector<bool> &isVisited, int row, Status status);
-
+    void removeEdges(const Session &session, int);
 protected:
     std::vector<Status> statusList;
 

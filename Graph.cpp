@@ -77,7 +77,15 @@ bool Graph::isFinishAux(std::vector<bool> &isVisited, int row, Status status) {
     }
 
 }
-
+void Graph::removeEdges(const Session &session, int nI) {
+    Graph g1 = session.getGraph();
+    for(int i = 0; i<g1.edges.size();i++){
+        if(edges[nI][i]==1){
+            edges[nI][i]=0;
+            edges[i][nI]=0;
+        }
+    }
+}
 //Graph::Graph(std::vector<std::vector<int>> matrix) {
 //    edges = matrix;
 //}
