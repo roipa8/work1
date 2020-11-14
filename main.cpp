@@ -1,6 +1,6 @@
 #include <iostream>
-#include "Session.h"
-#include "Graph.h"
+//#include "Session.h"
+//#include "Graph.h"
 #include <fstream>
 #include "json.hpp"
 #include <vector>
@@ -14,12 +14,14 @@ int main(int argc, char **argv) {
         cout << "usage cTrace <config_path>" << endl;
 //        return 0;
     }
+    vector<int> v={1,2,5};
+    cout <<v.size();
 //    Session sess(argv[1]);
 //    sess.simulate();
 //cout << "HEY" << endl;
-    ifstream i("../config1.json");
-    json j;
-    i >> j;
-    cout << j["graph"] << endl;
+//    ifstream i("../config1.json");
+//    json j;
+//    i >> j;
+//    cout << j["graph"] << endl;
     return 0;
 }

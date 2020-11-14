@@ -1,6 +1,5 @@
-#include "Graph.h"
 #include <iostream>
-#include "Tree.h"
+#include "Graph.h"
 using namespace std;
 Graph::Graph(std::vector<std::vector<int>> matrix):edges(matrix){}
 Graph::Graph(const Graph &other) {};
@@ -17,14 +16,13 @@ void Graph::setHealthy(){
     for(int i = 0; i<this->edges.size(); i++){
         statusList.push_back(Healthy);
     }
-
 }
 
 Tree * Graph::BFS(const Session &session, int nodeInd) {
-    Tree* currTree=Tree::createTree(Session session,nodeInd);
-    Graph g1=session.getGraph();
+    Tree* root=Tree::createTree(session,nodeInd);
+//    Graph g1=session.getGraph();
     std::vector<bool> isVisited;
-    for(int i=0; i<g1.edges.size(); i++){
+    for(int i=0; i<edges.size(); i++){
         isVisited.push_back(false);
     }
     queue<int> q;
@@ -32,16 +30,17 @@ Tree * Graph::BFS(const Session &session, int nodeInd) {
     while (!q.empty()){
         int currIndex=q.front();
         q.pop();
-        Tree* nextTree=Tree::createTree(session,currIndex);
-        currTree->addChild(nextTree);
-        for(int i=0;i<g1.edges.size(); i++){
-            if(!isVisited[i]&&g1.edges[i][currIndex]==1){
+        Tree* currTree=Tree::createTree(session,currIndex);
+        for(int i=0;i<edges.size(); i++){
+            if(!isVisited[i]&&edges[i][currIndex]==1){
                 q.push(i);
                 isVisited[i]=true;
+                Tree* nextTree=Tree::createTree(session,i);
+                currTree->addChild(nextTree);
             }
         }
     }
-    return currTree;
+    return root;
 }
 
 
